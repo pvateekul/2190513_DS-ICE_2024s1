@@ -10,12 +10,12 @@
 
 ### Week01: Intro to Numpy, Pandas
 
-1. Numpy: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2024s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week01_Intro_Pandas/1_Numpy.ipynb)
+1. Numpy: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2023s1/f6d850ff0e1eba59dbde6c469b7847f5897f3d27/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week01_Intro_Pandas/1_Numpy.ipynb)
 
-2. Pandas: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2024s1/main/img/colab-badge.svg)](https://colab.research.google.com/drive/1OfAxmzIkMEwaDbgKGSWIrUID5JalTqT7#scrollTo=ezoEs7UliHFh)
+2. Pandas: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2023s1/f6d850ff0e1eba59dbde6c469b7847f5897f3d27/img/colab-badge.svg)](https://colab.research.google.com/drive/1OfAxmzIkMEwaDbgKGSWIrUID5JalTqT7#scrollTo=ezoEs7UliHFh)
 
-3. Pandas with Youtube stat data: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2024s1/main/img/colab-badge.svg)](<https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week01_Intro_Pandas/3_Pandas_(Data_Set_Trending_YouTube_Video_Statistics).ipynb>)
+3. Pandas with Youtube stat data: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2023s1/f6d850ff0e1eba59dbde6c469b7847f5897f3d27/img/colab-badge.svg)](<https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week01_Intro_Pandas/3_Pandas_(Data_Set_Trending_YouTube_Video_Statistics).ipynb>)
 
-4. (Advanced) Pandas with Youtube stat data: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2024s1/main/img/colab-badge.svg)](<https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week01_Intro_Pandas/4_Advanced_Pandas_(Data_Set_Trending_YouTube_Video_Statistics).ipynb>)
+4. (Advanced) Pandas with Youtube stat data: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2023s1/f6d850ff0e1eba59dbde6c469b7847f5897f3d27/img/colab-badge.svg)](<https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week01_Intro_Pandas/4_Advanced_Pandas_(Data_Set_Trending_YouTube_Video_Statistics).ipynb>)
 
-Assignment (Pandas with Youtube stat data): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2024s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week01_Intro_Pandas/5_PandasAssignment.ipynb)
+Assignment (Pandas with Youtube stat data): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2023s1/f6d850ff0e1eba59dbde6c469b7847f5897f3d27/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week01_Intro_Pandas/5_PandasAssignment.ipynb)
