@@ -1,4 +1,4 @@
-# 2190513 Data Science @CU (2024/1)
+# 2190513 Data Science (ICE) @CU (2024/1)
 
 ![alt text](https://github.com/pvateekul/2190513_DS-ICE_2024s1/blob/c588810003e3dcd79c4d7de96539087b9a9fac0d/image/meme.jpg "join ds")
 
