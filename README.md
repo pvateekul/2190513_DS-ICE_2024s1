@@ -12,11 +12,11 @@
 
 1. Numpy: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week01_Intro_Pandas/1_Numpy.ipynb)
 
-2. Pandas: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2023s1/f6d850ff0e1eba59dbde6c469b7847f5897f3d27/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week02_DataPrep/Pandas.ipynb)
+2. Pandas: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week02_DataPrep/Pandas.ipynb)
 
-3. Pandas with Youtube stat data: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2023s1/f6d850ff0e1eba59dbde6c469b7847f5897f3d27/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week01_Intro_Pandas/3_Pandas_%28Dataset_Trending_YouTube_Video_Statistics%29.ipynb)
+3. Pandas with Youtube stat data: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week01_Intro_Pandas/3_Pandas_%28Dataset_Trending_YouTube_Video_Statistics%29.ipynb)
 
-4. (Advanced) Pandas with Youtube stat data: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2023s1/f6d850ff0e1eba59dbde6c469b7847f5897f3d27/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week01_Intro_Pandas/4_Advanced_Pandas_%28Dataset_Trending_YouTube_Video_Statistics%29.ipynb)
+4. (Advanced) Pandas with Youtube stat data: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week01_Intro_Pandas/4_Advanced_Pandas_%28Dataset_Trending_YouTube_Video_Statistics%29.ipynb)
 
 Assignment (Pandas with Youtube stat data): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week01_Intro_Pandas/5_PandasAssignment.ipynb)
 
@@ -32,10 +32,12 @@ Assignment (Pandas with Youtube stat data): [![Open In Colab](https://raw.github
 
 5. Outliers with Log (Titanic DataSet): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week02_DataPrep/Lab5_Outliers_Boston_%28optional%29.ipynb)
 
-Assignment: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week02_DataPrep/Assignment2_TitanicDataPrep_ToStudent.ipynb) 
+Assignment: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week02_DataPrep/Assignment2_TitanicDataPrep_ToStudent.ipynb)
 
 ### Week03-04: Traditional ML
+
 #### Week03: Tree-based model, regression
+
 #### Week04: NN, kNN, GridSearch, Pipeline, Evaluation + Clustering
 
 1. Decision Trees: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week03_ML/1_Decision_Trees_Random_Forests_v3.ipynb)
@@ -57,5 +59,3 @@ Assignment: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/219051
 9. Market-Basket Analysis: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week03_ML/9_Market_Basket_Intro_v2.ipynb)
 
 10. Scikit-learn pipeline: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week03_ML/10_Scikit_learn_Pipeline.ipynb)
-
-
