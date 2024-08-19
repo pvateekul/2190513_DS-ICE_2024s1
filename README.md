@@ -12,7 +12,7 @@
 
 1. Numpy: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week01_Intro_Pandas/1_Numpy.ipynb)
 
-2. Pandas: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2023s1/f6d850ff0e1eba59dbde6c469b7847f5897f3d27/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week02_DataPrep/Lab2_ImputeMissingValue.ipynb)
+2. Pandas: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2023s1/f6d850ff0e1eba59dbde6c469b7847f5897f3d27/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week02_DataPrep/Pandas.ipynb)
 
 3. Pandas with Youtube stat data: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2023s1/f6d850ff0e1eba59dbde6c469b7847f5897f3d27/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week01_Intro_Pandas/3_Pandas_%28Dataset_Trending_YouTube_Video_Statistics%29.ipynb)
 
