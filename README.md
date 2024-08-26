@@ -8,7 +8,7 @@
 
 ## Code:
 
-### Week01: Intro to Numpy, Pandas
+### Week01-02: Intro to Numpy, Pandas
 
 1. Numpy: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week01_Intro_Pandas/1_Numpy.ipynb)
 
@@ -20,7 +20,7 @@
 
 Assignment (Pandas with Youtube stat data): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week01_Intro_Pandas/5_PandasAssignment.ipynb)
 
-### Week02: Data Preparation
+### Week03: Data Preparation
 
 1. EDA: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week02_DataPrep/Lab1_LoansDataSet.ipynb)
 
@@ -34,7 +34,7 @@ Assignment (Pandas with Youtube stat data): [![Open In Colab](https://raw.github
 
 Assignment: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week02_DataPrep/Assignment2_TitanicDataPrep_ToStudent.ipynb)
 
-### Week03-04: Traditional ML
+### Week04-05: Traditional ML
 
 #### Week03: Tree-based model, regression
 
