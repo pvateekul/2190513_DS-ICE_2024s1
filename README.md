@@ -34,11 +34,15 @@ Assignment (Pandas with Youtube stat data): [![Open In Colab](https://raw.github
 
 Assignment: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week02_DataPrep/Assignment2_TitanicDataPrep_ToStudent.ipynb)
 
-### Week04-05: Traditional ML
+### Week04-08/1: Traditional ML
 
-#### Week03: Tree-based model, regression
+#### Week04-05: Classification Tree
 
-#### Week04: NN, kNN, GridSearch, Pipeline, Evaluation + Clustering
+#### Week06: Regression Tree, Evaluation
+
+#### Week07: kNN, GridSearch, Regression
+
+#### Week08/1: NN, Clustering
 
 1. Decision Trees: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week03_ML/1_Decision_Trees_Random_Forests_v3.ipynb)
 
@@ -60,7 +64,7 @@ Assignment: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/219051
 
 10. Scikit-learn pipeline: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week03_ML/10_Scikit_learn_Pipeline.ipynb)
 
-### Week04-05: Intro to Deep Learning
+### Week08/2: Intro to Deep Learning
 
 1. Image classification (basic): CIFAR10: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week04_DL/1_Image_classification_CIFAR10_CNN.ipynb)
 
@@ -76,3 +80,4 @@ Assignment: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/219051
 
 5. Time series Forecasting: Stock Price: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week04_DL/5_Time_series_forecasting_DataInGD.ipynb)
 
+### Week09: Webscraping, FastAPI
