@@ -94,10 +94,18 @@ Assignment: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/219051
 
 #### FastAPI
 
-1. Simple: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week09/fastapi/1_simple.ipynb)
+1-1 Simple: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week09/fastapi/1_simple.ipynb)
 
-2. Path Param: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week09/fastapi/2_path_param.ipynb)
+1-2 Simple Request: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week09/fastapi/1_simple_request.ipynb)
 
-3. Post: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week09/fastapi/3_post.ipynb)
+2-1 Path Param: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week09/fastapi/2_path_param.ipynb)
 
-4. Put: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week09/fastapi/4_put.ipynb)
+2-2 Path Param Request: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week09/fastapi/2_path_param_request.ipynb)
+
+3-1 Post: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week09/fastapi/3_post.ipynb)
+
+3-2 Post Request: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week09/fastapi/3_post_request.ipynb)
+
+4-1 Put: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week09/fastapi/4_put.ipynb)
+
+4-2 Put Request: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week09/fastapi/4_put_request.ipynb)
