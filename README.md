@@ -109,3 +109,31 @@ Assignment: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/219051
 4-1. Put: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week09/fastapi/4_put.ipynb)
 
 4-2. Put Request: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week09/fastapi/4_put_request.ipynb)
+
+### Week10: Data Storage
+
+1. SQL: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week10_Data_Storage/1_sql_tutorial.ipynb)
+
+2. MongoDB: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week10_Data_Storage/2_mongodb_tutorial.ipynb)
+
+### Week11: Visualization with Streamlit
+
+1. Streamlit Layout: [🔗](https://github.com/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week11_Streamlit/1_streamlit_layout.py)
+
+2. Streamlit Iris: [🔗](https://github.com/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week11_Streamlit/2_streamlit_iris.py)
+
+3. Streamlit Gapminder: [🔗](https://github.com/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week11_Streamlit/3_streamlit_gapminder.py)
+
+4. Streamlit Uber: [🔗](https://github.com/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week11_Streamlit/4_streamlit_uber.py)
+
+### Week12: Deep Learning API
+
+1. DL HuggingFace API [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week12_DL_API/1_DL_HuggingFace_API.ipynb)
+
+2. Cloud Vision API [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week12_DL_API/2_Cloud_Vision_API.ipynb)
+
+3-1. Zero Shot Image Classification [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week12_DL_API/3_1_zero_shot_image_classification.ipynb)
+
+3-2. Zero Shot Object Detection [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week12_DL_API/3_2_zero_shot_object_detection.ipynb)
+
+3-3. Zero Shot Segmentation [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week12_DL_API/3_3_zero_shot_segmentation.ipynb)
