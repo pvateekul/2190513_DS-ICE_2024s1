@@ -118,6 +118,8 @@ Assignment: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/219051
 
 ### Week11: Visualization with Streamlit
 
+#### Streamlit Runner (for running files below in Colab) [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week11_Streamlit/streamlit_runner.ipynb)
+
 1. Streamlit Layout: [🔗](https://github.com/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week11_Streamlit/1_streamlit_layout.py)
 
 2. Streamlit Iris: [🔗](https://github.com/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week11_Streamlit/2_streamlit_iris.py)
