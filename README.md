@@ -139,3 +139,5 @@ Assignment: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/219051
 3-2. Zero Shot Object Detection [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week12_DL_API/3_2_zero_shot_object_detection.ipynb)
 
 3-3. Zero Shot Segmentation [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week12_DL_API/3_3_zero_shot_segmentation.ipynb)
+
+4. OpenAI ChatGPT Toyota Lite [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week12_DL_API/4_OpenAI_ChatGPT_Toyota_lite.ipynb)
