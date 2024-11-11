@@ -127,6 +127,10 @@ Assignment: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/219051
 3. Streamlit Gapminder: [🔗](https://github.com/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week11_Streamlit/3_streamlit_gapminder.py)
 
 4. Streamlit Uber: [🔗](https://github.com/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week11_Streamlit/4_streamlit_uber.py)
+   
+5. Dash Histogram: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week11_Streamlit/5_dash_histograms.ipynb)
+
+6. Dash Gapminder: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week11_Streamlit/5_dash_gapminder.ipynb)
 
 ### Week12: Deep Learning API
 
