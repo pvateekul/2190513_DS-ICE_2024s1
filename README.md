@@ -134,14 +134,18 @@ Assignment: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/219051
 
 ### Week12: Deep Learning API
 
-1. DL HuggingFace API [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week12_DL_API/1_DL_HuggingFace_API.ipynb)
+1. DL HuggingFace API: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week12_DL_API/1_DL_HuggingFace_API.ipynb)
 
-2. Cloud Vision API [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week12_DL_API/2_Cloud_Vision_API.ipynb)
+2. Cloud Vision API: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week12_DL_API/2_Cloud_Vision_API.ipynb)
 
-3-1. Zero Shot Image Classification [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week12_DL_API/3_1_zero_shot_image_classification.ipynb)
+3-1. Zero Shot Image Classification: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week12_DL_API/3_1_zero_shot_image_classification.ipynb)
 
-3-2. Zero Shot Object Detection [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week12_DL_API/3_2_zero_shot_object_detection.ipynb)
+3-2. Zero Shot Object Detection: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week12_DL_API/3_2_zero_shot_object_detection.ipynb)
 
-3-3. Zero Shot Segmentation [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week12_DL_API/3_3_zero_shot_segmentation.ipynb)
+3-3. Zero Shot Segmentation: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week12_DL_API/3_3_zero_shot_segmentation.ipynb)
 
-4. OpenAI ChatGPT Toyota Lite [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week12_DL_API/4_OpenAI_ChatGPT_Toyota_lite.ipynb)
+4. OpenAI ChatGPT Toyota Lite: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week12_DL_API/4_OpenAI_ChatGPT_Toyota_lite.ipynb)
+
+5-1. Text Classification (TF-IDF): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week12_DL_API/5-1_tfidf_for_Sentiment_Analysis.ipynb)
+
+5-2. Text Classification (BERT): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2024s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2024s1/blob/main/code/Week12_DL_API/5-2_NLP_Transfer_Learning_for_Text_Classification_Using_Hugging_Face_Transformers_Trainer.ipynb)
